@@ -6,6 +6,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taylorph&theme=tokyonight" />
 
-# My GitHub Stats
+# Most Used Languages
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taylorph&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taylorph&theme=tokyonight" />
