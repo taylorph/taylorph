@@ -8,4 +8,4 @@
 
 # Most Used Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taylorph&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taylorph&theme=tokyonight" />
